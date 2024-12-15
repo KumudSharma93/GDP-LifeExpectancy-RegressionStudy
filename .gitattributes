@@ -1,2 +1,3 @@
 *.qmd linguist-language=R
 *.ipynb linguist-language=Python
+*.qmd linguist-vendored
