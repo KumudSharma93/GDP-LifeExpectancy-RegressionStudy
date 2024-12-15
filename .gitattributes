@@ -4,5 +4,6 @@
 # Override for Python Jupyter Notebook files (.ipynb)
 *.ipynb linguist-language=Python
 
-# Optionally, mark certain files as undetectable if needed
-# *.t linguist-detectable=false
+git add .gitattributes
+git commit -m "Fix .gitattributes for R and Python file recognition"
+git push origin main
