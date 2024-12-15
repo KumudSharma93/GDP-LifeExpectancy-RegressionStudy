@@ -4,7 +4,6 @@ This project, completed as part of the MSc Data Analytics programme at the Unive
 - **Data Wrangling and Exploratory Data Analysis (EDA)** in R, with graphical and numerical summaries of life expectancy, GDP, and geographical regions.
 - **Formal Data Analysis** in Python, featuring regression modeling. A multiple regression model with parallel slopes was determined to be the best fit.
 
-
 ## Files and Structure
 - **R Folder**:
   - `eda_and_wrangling.qmd`: Quarto markdown file for Data Wrangling and Exploratory data analysis.
