@@ -29,7 +29,7 @@ This project, completed as part of the MSc Data Analytics programme at the Unive
     - `gt`  
     - `gridExtra`
   - **Python**: 
-  - - `pandas`  
+    - `pandas`  
     - `numpy`  
     - `matplotlib.pyplot`  
     - `seaborn`  
