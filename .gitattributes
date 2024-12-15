@@ -1,9 +1,1 @@
-# Override for R Quarto files (.qmd)
-*.qmd linguist-language=R
 
-# Override for Python Jupyter Notebook files (.ipynb)
-*.ipynb linguist-language=Python
-
-git add .gitattributes
-git commit -m "Fix .gitattributes for R and Python file recognition"
-git push origin main
