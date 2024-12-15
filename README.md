@@ -1,6 +1,6 @@
 # Examining the Relationship of GDP on Life Expectancy: A Global Perspective
 
-This project, completed as part of the MSc Data Analytics programme at the University of Glasgow (2023-24), investigates the relationship between life expectancy at birth and Gross Domestic Product (GDP) across countries in 2021. Data was sourced from Our World in Data (https://ourworldindata.org/) under the "Poverty and Economic Development" theme. The analysis explores the linear association between life expectancy and GDP, incorporating the potential influence of continents. It includes:
+This project, completed as part of the MSc Data Analytics programme at the University of Glasgow (2023-24), investigates the relationship between life expectancy at birth and Gross Domestic Product (GDP) across countries in 2021. Data was sourced from Our World in Data (https://ourworldindata.org/) under the Poverty and Economic Development theme. The analysis explores the linear association between life expectancy and GDP, incorporating the potential influence of continents. It includes:
 - **Data Wrangling and Exploratory Data Analysis (EDA)** in R, with graphical and numerical summaries of life expectancy, GDP, and geographical regions.
 - **Formal Data Analysis** in Python, featuring regression modeling. A multiple regression model with parallel slopes was determined to be the best fit.
 
