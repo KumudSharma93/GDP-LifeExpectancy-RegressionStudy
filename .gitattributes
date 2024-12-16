@@ -1,5 +1,2 @@
-# Override for R Quarto files (.qmd)
-# *.qmd linguist-language=R
-
 # Override for Python Jupyter Notebook files (.ipynb)
 *.ipynb linguist-language=Jupyter
