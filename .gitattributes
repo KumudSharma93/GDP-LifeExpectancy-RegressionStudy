@@ -1,1 +1,9 @@
+# Define R files for GitHub linguist
+*.R linguist-language=R
+*.r linguist-language=R
+*.Rmd linguist-language=R
+*.qmd linguist-language=R
 
+# Define Python files for GitHub linguist
+*.ipynb linguist-language=Python
+*.py linguist-language=Python
