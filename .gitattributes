@@ -5,5 +5,5 @@
 *.qmd linguist-language=R
 
 # Define Python files for GitHub linguist
-*.ipynb linguist-language=Python
+*.ipynb linguist-language=Jupyter Notebook
 *.py linguist-language=Python
